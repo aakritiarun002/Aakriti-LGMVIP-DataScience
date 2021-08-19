@@ -1,3 +1,4 @@
+
 # Name - Aakriti
 # Data Science Intern @ LGM
 
@@ -18,6 +19,9 @@
 ## Machine Learning Algorithm Used :
 - Supervised Learning (KNN Algorithm, Decision Tree)
 - Unsupervised Learning (K Mean Clustering)
+- ![m1](https://user-images.githubusercontent.com/70642412/130045146-bc62a9a0-6c4b-43ff-904a-21b386ed4a1a.PNG)
+- ![m2](https://user-images.githubusercontent.com/70642412/130045227-21b2319a-dca5-4b35-9443-3e345dd354f9.PNG)
+- ![m3](https://user-images.githubusercontent.com/70642412/130045249-4a484e19-c748-4c2b-9bde-1728d9b0ddfc.PNG)
 
 
 
