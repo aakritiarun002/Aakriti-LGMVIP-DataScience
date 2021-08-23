@@ -12,4 +12,8 @@
 ![dd](https://user-images.githubusercontent.com/70642412/130467862-ee954ae8-250b-40e7-a227-d5c3d433a02f.PNG)
 
 
+- Youtube Link : https://youtu.be/tW_UIjVEyQY
+- LinkedIN Post Link : https://www.linkedin.com/posts/aakriti19_connections-taskabr3-lgmvip-activity-6835587223652446208-QKRA
+- Ig : https://www.instagram.com/tv/CS6-hluAiG9/?utm_source=ig_web_copy_link
+
 
